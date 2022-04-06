@@ -3,9 +3,9 @@ Blogs from Dev.to and Medium
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Escalating Privileges using a misconfigured service principal](https://dev.to/cheahengsoon/escalating-privileges-using-a-misconfigured-service-principal-o66)
-- [Extracting stored passwords and certificates from Automation accounts](https://dev.to/cheahengsoon/extracting-stored-passwords-and-certificates-from-automation-accounts-f7n)
-- [Extracting credentials from App Service](https://dev.to/cheahengsoon/extracting-credentials-from-app-service-51e7)
-- [Exfiltering VM disks using PowerZure](https://dev.to/cheahengsoon/exfiltering-vm-disks-using-powerzure-2fp5)
-- [Enumerating subscription information with MicroBurst](https://dev.to/cheahengsoon/enumerating-subscription-information-with-microburst-35a1)
+- [November Update — Core eDiscovery UI](https://engsooncheah.medium.com/november-update-core-ediscovery-ui-8922594fdbef?source=rss-18b0bdc43bc0------2)
+- [Advanced eDiscovery for Microsoft Teams Chat](https://engsooncheah.medium.com/advanced-ediscovery-for-microsoft-teams-chat-e1af09e52bf4?source=rss-18b0bdc43bc0------2)
+- [Get HashValue of each subfolder File](https://engsooncheah.medium.com/get-hashvalue-of-each-subfolder-file-8d36d3cdbeb?source=rss-18b0bdc43bc0------2)
+- [Export Individual OneDrive](https://engsooncheah.medium.com/export-individual-onedrive-b189d47b006f?source=rss-18b0bdc43bc0------2)
+- [Error of Execution on Search-UnifiedAuditLog](https://engsooncheah.medium.com/error-of-execution-on-search-unifiedauditlog-483b3aac7ef0?source=rss-18b0bdc43bc0------2)
 <!-- BLOG-POST-LIST:END -->
